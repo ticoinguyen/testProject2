@@ -1,0 +1,4 @@
+
+
+Step 1: menu Repository/ clone /input url get source / next ...
+Step 2: Swith branch by this command  'git checkout develop' from terminal
