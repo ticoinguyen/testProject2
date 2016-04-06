@@ -1,4 +1,9 @@
 
 
 Step 1: menu Repository/ clone /input url get source / next ...
-Step 2: Swith branch by this command  'git checkout develop' from terminal
+Step 2: Swith branch by this command  'git checkout develop' from terminal or command line
+Step 3: modify some file after that we choose commit on file and input comment for this commit
+	Press commit button to commit object data.
+Step 4: click log button and view log.
+	Selected object file need to push to server and click button push.
+Step 5: In server, we'll refesh after we see some change on our branch.
