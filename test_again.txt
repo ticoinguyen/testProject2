@@ -1,0 +1,20 @@
+
+link: http://gitref.org/branching/
+
+
+$ ls
+README   hello.rb
+$ echo 'test content' > test.txt
+$ echo 'more content' > more.txt
+$ git add *.txt
+$ git commit -m 'added two files'
+[master 8bd6d8b] added two files
+ 2 files changed, 2 insertions(+), 0 deletions(-)
+ create mode 100644 more.txt
+ create mode 100644 test.txt
+$ ls
+README   hello.rb more.txt test.txt
+$ git checkout testing
+Switched to branch 'testing'
+$ ls
+README   hello.rb
